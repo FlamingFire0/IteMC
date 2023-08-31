@@ -1,2 +1,2 @@
 # IteMC
-A very Epic, Custom Item plugin, with a lot of customization.
+The single most customizable custom items plugin!
